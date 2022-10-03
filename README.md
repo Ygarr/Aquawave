@@ -1,2 +1,2 @@
 # Aquawave
-Water ripple effect by mouse
+Realistic water ripple effect with mouse event
